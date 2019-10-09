@@ -5,25 +5,25 @@
     "category": "Online Shopping",
     "crypto": ["BCH", "BTC", "LTC", "ZEC"]
   },
-{
+  {
     "title": "Bitrefill",
     "link": "https://www.bitrefill.com",
     "category": "Gift Cards, top-ups",
     "crypto": ["BTC", "ETH", "LTC"]
   },
-{
+  {
     "title": "Gamesplanet",
     "link": "https://gamesplanet.com",
     "category": "Games",
     "crypto": ["BTC"]
   },
-{
+  {
     "title": "Ian Coleman",
     "link": "https://iancoleman.io/bip39",
     "category": "Deterministic wallet, Mnemonic phrase converter",
-    "crypto": ["AC", "ACC", "AUR","AXE", "ANON', "BOLI", "BCA", "BCH", "BEET", "BELA", "BLK", "BND", "tBND", "BRIT", "BSD", "BST", "BTA", "BTC", "BITG", "BTCP", "BTCZ", "BTDX", "BTG", "BTX", "CCN", "CESC", "CDN", "CLAM", "CLO", "CLUB", "CMP", "CRAVE", "CRW", "DASH", "DFC", "DGB", "DFC", "DGB", "DGC", "DMD", "DNR", "DOGE", "DOGEt", "DXN", "ECN", "EDRC", "EFL", "ELLA", "EMC2", "ERC", "EOS", "ESN", "ETC", "ETH", "EXCL", "EXCC", "EXP", "FIX", "FJC", "FLASH", "FRST", "FTC", "GAME", "GBX", "GCR", "GRC", "HNC", "HUSH", "INSN", "IOP", "IXC", "JBS", "KMD", "KOBO", "LBC", "LCC", "LDCN", "LINX", "LKR", "LTC", "LTCt", "LTZ", "LYNX", "MAZA", "MEC", "MIX", "MNX", "MONA", "MUSIC", "NAV", "NAS", "NEBL", "NEOS", "NIX", "NLG", "NMC", "NRG", "NRO", "NSR", "NYC", "NVC", "OK", "OMNI", "ONION", "ONX", "PHR", "PINK", "PIRL", "PIVX", "POA", "POSW", "POT", "PPC", "PRJ", "PSB", "PUT", "RVN", "RBY", "RDD", "RVR", "SAFE", "SLS", "SDC", "SLM", "SLP", "SLR", "SMLY", "STASH", "STRAT", "TSTRAT", "SYS", "THC", "TOA", "TWINS", "USC", "USNBT", "UNO", "VASH", "VIA", "VIVO", "VTC", "WC", "XAX", "XBC", "XLM", "XMY", "XRP", "XVC", "XVG", "XUEZ", "XWC", "XZC", "ZCL", "ZEC", "ZEN"]
+    "crypto": ["AC", "ACC", "AUR","AXE", "ANO", "BOLI", "BCA", "BCH", "BEET", "BELA", "BLK", "BND", "tBND", "BRIT", "BSD", "BST", "BTA", "BTC", "BITG", "BTCP", "BTCZ", "BTDX", "BTG", "BTX", "CCN", "CESC", "CDN", "CLAM", "CLO", "CLUB", "CMP", "CRAVE", "CRW", "DASH", "DFC", "DGB", "DFC", "DGB", "DGC", "DMD", "DNR", "DOGE", "DOGEt", "DXN", "ECN", "EDRC", "EFL", "ELLA", "EMC2", "ERC", "EOS", "ESN", "ETC", "ETH", "EXCL", "EXCC", "EXP", "FIX", "FJC", "FLASH", "FRST", "FTC", "GAME", "GBX", "GCR", "GRC", "HNC", "HUSH", "INSN", "IOP", "IXC", "JBS", "KMD", "KOBO", "LBC", "LCC", "LDCN", "LINX", "LKR", "LTC", "LTCt", "LTZ", "LYNX", "MAZA", "MEC", "MIX", "MNX", "MONA", "MUSIC", "NAV", "NAS", "NEBL", "NEOS", "NIX", "NLG", "NMC", "NRG", "NRO", "NSR", "NYC", "NVC", "OK", "OMNI", "ONION", "ONX", "PHR", "PINK", "PIRL", "PIVX", "POA", "POSW", "POT", "PPC", "PRJ", "PSB", "PUT", "RVN", "RBY", "RDD", "RVR", "SAFE", "SLS", "SDC", "SLM", "SLP", "SLR", "SMLY", "STASH", "STRAT", "TSTRAT", "SYS", "THC", "TOA", "TWINS", "USC", "USNBT", "UNO", "VASH", "VIA", "VIVO", "VTC", "WC", "XAX", "XBC", "XLM", "XMY", "XRP", "XVC", "XVG", "XUEZ", "XWC", "XZC", "ZCL", "ZEC", "ZEN"]
   },
-{
+  {
     "title": "OpenBazaar",
     "link": "https://openbazaar.org/",
     "category": "Online commerce",
