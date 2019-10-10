@@ -93,7 +93,7 @@
   {
     "title": "OpenBazaar",
     "link": "https://openbazaar.org",
-    "categories": "Online commerce",
+    "categories": ["E-commerce","Shopping"],
     "crypto": ["BTC"]
   }
 ]
