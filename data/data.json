@@ -1,10 +1,5 @@
 [
-  {
-    "title": "Alagoria",
-    "link": "https://alagoria.com",
-    "category": "Online Shopping",
-    "crypto": ["BCH", "BTC", "LTC", "ZEC"]
-  },
+
   {
     "title": "Bitrefill",
     "link": "https://www.bitrefill.com",
